@@ -296,7 +296,7 @@ L_8_:NewButton(
     "Silent Aim",
     "Silent Aim Toggle Key is T.",
     function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/lemonsys/dahood/main/localsilentaim", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/unkwned/farissilentaim/main/silent.lua", true))()
 end
 )
 L_8_:NewTextBox(
